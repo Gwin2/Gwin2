@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![](https://typograssy.deno.dev/api?text=Hello%20DEVELOPERS!%20&l0=78bbb6&l1=000000&l2=282820&l3=2127c4&l4=1cbf3a&bg=000000&comment=)](https://github.com/kawarimidoll/typograssy)
+[![](https://typograssy.deno.dev/api?text=Hello%20DEVELOPERS!%20&l0=000000&l1=000000&l2=282820&l3=2127c4&l4=1cbf3a&bg=000000&comment=)](https://github.com/kawarimidoll/typograssy)
