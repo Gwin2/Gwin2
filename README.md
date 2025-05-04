@@ -1,4 +1,4 @@
-https://github.com/kawarimidoll/typograssy## Hi there 👋
+## Hi there 👋
 
 <!--
 **Gwin2/Gwin2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![(https://typograssy.deno.dev/api?text=Hello%20world!)(https://github.com/kawarimidoll/typograssy)]
+[!(https://typograssy.deno.dev/api?text=Hello%20world!)(https://github.com/kawarimidoll/typograssy)]
