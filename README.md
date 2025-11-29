@@ -1,3 +1,4 @@
+<div align="center">
 ## Hi there 👋
 
 <!--
@@ -16,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 [![](https://typograssy.deno.dev/api?text=Hello%20DEVELOPERS!%20&l0=000000&l1=750ec6&l2=c60e32&l3=2127c4&l4=1cbf3a&bg=000000&speed=150&comment=)](https://github.com/kawarimidoll/typograssy)
-
+</div>
 
 <div id="header" align="center">
   <h1>~/n4z4v0d $ ❚</h1>
